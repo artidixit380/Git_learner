@@ -7,7 +7,7 @@ public class GreetingApp {
         Scanner scanner = new Scanner(System.in);
 
         // Ask for the user's name
-        System.out.print("Enter your name: ");
+        System.out.print("Shrisha ");
         String name = scanner.nextLine();
 
         // Print a greeting message
@@ -17,3 +17,4 @@ public class GreetingApp {
         scanner.close();
     }
 }
+
